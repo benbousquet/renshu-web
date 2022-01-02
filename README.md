@@ -1,28 +1,28 @@
 ## Structure
 
-- [] home
-- [] dashboard
-- [] social
-- [] auth
+- [ ] home
+- [ ] dashboard
+- [ ] social
+- [ ] auth
 
 ### Home
 
-- [] ability to add activity
-- [] feed from friends
+- [ ] ability to add activity
+- [ ] feed from friends
 
 ### Dashboard
 
-- [] stats
+- [ ] stats
 
 ### Social
 
-- [] flush out later
+- [ ] flush out later
 
 ### Auth
 
-- [] login
-- [] logout
-- [] other stuff
+- [ ] login
+- [ ] logout
+- [ ] other stuff
 
 ## Getting Started
 
